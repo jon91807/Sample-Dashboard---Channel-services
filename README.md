@@ -37,9 +37,10 @@ The application is developed using the following technologies and libraries:
 4. **Sending Bulk Messages**: Once the campaign is set up, users can send bulk messages or calls based on the selected service and available credits.
 5. **Credits Management**: If more credits are needed, users can purchase them through the payment section, with various methods available.
 
-## 🆚 Competitors
+## 🆚 Market Position
 
-For reference, our application competes with major service providers like [MSG91](https://msg91.com/). However, our advanced design, personalized dashboards, and user-friendly approach set us apart in the market.
+Our application stands out in the market with its advanced design, personalized dashboards, and user-friendly interface, providing a superior experience compared to traditional bulk messaging platforms. With a focus on seamless functionality and smooth user interactions, this dashboard redefines how bulk messaging and campaign management should be done.
+
 
 ## 🌐 Deployed Application
 
